@@ -7,4 +7,4 @@ J'ai séparer les données en deux set: les sans visages et les avec visages. Ce
 J'ai utilisé les base de données http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html et https://www.kaggle.com/datasets/constantinwerner/human-detection-dataset pour le projet
 
 ## Mot de fin
-Pour tout autres information je suis completement disponible et il vous suffit de m'envoyer un ping Discord
+Pour tout autres informations je suis completement disponible et il vous suffit de m'envoyer un ping Discord
